@@ -1,6 +1,5 @@
 //
 //  Firebase+Rx.swift
-//  Lesson
 //
 //  Created by suguru-kishimoto on 2017/09/13.
 //
